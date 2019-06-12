@@ -1,8 +1,8 @@
 /**
  * 淘宝领券王
  */
-import React, { Component } from 'react';
-import { StyleSheet, Text, View, WebView, Platform, BackHandler, ToastAndroid } from 'react-native';
+import React, {Component} from 'react';
+import {StyleSheet,Text,View,WebView,Platform,BackHandler,ToastAndroid} from 'react-native';
 
 
 export default class App extends Component<Props> {
